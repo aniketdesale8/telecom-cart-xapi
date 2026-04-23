@@ -10,6 +10,3 @@ Thin Experience API over a simulated Salesforce cart.
 
 ## Key Design
 Handles backend expiry using error-driven recovery instead of only TTL checks.
-
-## Note
-Focus is on clean architecture and logic.
