@@ -1,0 +1,6 @@
+{
+  "name": "telecom-cart-xapi",
+  "version": "1.0.0",
+  "description": "Thin Experience API over Salesforce cart context",
+  "main": "src/app.ts"
+}
